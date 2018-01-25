@@ -1,0 +1,1 @@
+var serviceHost = "http://10.83.22.164:30874";
